@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @BlackGonza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- I Am Hacker...
-
-<!---
-BlackGonza/BlackGonza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+IN TERMUX
+$ apt update && apt upgrade
+$ apt install git
+$ pkg install python
+$ git clone https://github.com/BlackGonza/BlackGonza
+$ cd BlackGonza
+$ python main.py
